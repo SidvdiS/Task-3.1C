@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz Based Application</string>
+    <string name="quiz_app_title">SIT708 Quiz App</string>
+    <string name="username_input">Enter your name:</string>
+    <string name="start_button_title">START</string>
+    <string name="name_empty_error">You did not enter a name</string>
+    <string name="quiz_submit_button">Submit</string>
+    <string name="quiz_next_button">Next</string>
+    <string name="your_score">Your score:</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="finish">Finish</string>
+    <string name="calculator">Calculator</string>
+    <string name="subtract">Subtract</string>
+    <string name="addition">Add</string>
+    <string name="result">Result</string>
+</resources>
